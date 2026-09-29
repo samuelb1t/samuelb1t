@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![a](https://github-readme-stats.vercel.app/api?username=samuelb1t&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=samuelb1t&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=samuelb1t&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelb1t&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
